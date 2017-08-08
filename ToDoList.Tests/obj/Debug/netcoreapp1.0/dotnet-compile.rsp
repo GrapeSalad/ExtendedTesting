@@ -192,6 +192,7 @@
 --reference:C:\Users\epicodus\.nuget\packages\xunit.runner.utility\2.2.0-beta2-build3300\lib\netstandard1.1\xunit.runner.utility.dotnet.dll
 --reference:C:\Users\epicodus\Documents\Visual Studio 2015\Projects\ToDoList-With-Migration-VS\src\ToDoListWithMigrations\bin\Debug\netcoreapp1.0\ToDoListWithMigrations.dll
 C:\Users\epicodus\Documents\Visual Studio 2015\Projects\ToDoList-With-Migration-VS\ToDoList.Tests\Class1.cs
+C:\Users\epicodus\Documents\Visual Studio 2015\Projects\ToDoList-With-Migration-VS\ToDoList.Tests\ControllerTests\CategoriesControllerTest.cs
 C:\Users\epicodus\Documents\Visual Studio 2015\Projects\ToDoList-With-Migration-VS\ToDoList.Tests\ControllerTests\ItemsControllerTest.cs
 C:\Users\epicodus\Documents\Visual Studio 2015\Projects\ToDoList-With-Migration-VS\ToDoList.Tests\ModelTests\ItemTest.cs
 C:\Users\epicodus\Documents\Visual Studio 2015\Projects\ToDoList-With-Migration-VS\ToDoList.Tests\Properties\AssemblyInfo.cs
